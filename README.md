@@ -26,10 +26,10 @@ If you have any ideas, please send them to me!
 
 ##  🎉 Skills
 
-- **FrontEnd**: CSS, HTML, PHP
-- **BackEnd**: PHP
+- **FrontEnd**: CSS, HTML
+- **BackEnd**: PHP, JavaScript
 - **Web technologies**: HTML5, CSS3
-- **Languages**: PHP
+- **Languages**: PHP, HTML, CSS, JavaScript
 
 ---
 🔥 From [theohdg2](https://github.com/theohdg2)
