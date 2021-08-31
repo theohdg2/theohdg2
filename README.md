@@ -1,12 +1,12 @@
 
 # Hi there !
 
->  💻 developper web| PHP, HTML and CSS
+>  💻 developper Front and Back
 
-[![GitHub: @theohd2](https://img.shields.io/github/followers/leoderoin?label=follow&style=social)](https://github.com/leoderoin)
+[![GitHub: @theohd2](https://img.shields.io/github/followers/theohdg2@gmail.com?label=follow&style=social)](https://github.com/theohdg2@gmail.com)
 [![theohdg2@gmail.com](https://img.shields.io/static/v1?label=theohdg2@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:l.deroin@netcourrier.com)
 
-I am an apprentice developer living in France
+I am a developer living in Belgium
 
 I like travelling, sports, music
 
